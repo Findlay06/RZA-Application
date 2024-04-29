@@ -49,7 +49,7 @@ In order to use these programs, Tkinter-Designer is needed as well as other pack
 
 <!-- Includes -->
 ## Includes
-* Versions 1, 2, 3, 4 and 9 as they are the most significant.
+* Version 9 as the final version.
 * Changelog
 * Accessibility file
 * Attractions and Facilities file
