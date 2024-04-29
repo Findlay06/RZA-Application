@@ -1,0 +1,6 @@
+-- database: c:\Users\EXAM1243\Documents\SoftwareDev\Versions\Database\users.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT * FROM users 
+WHERE name = 'Ryan';
