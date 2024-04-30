@@ -30,7 +30,9 @@ logo path: Images & Additional Assets/Accessibility_window.png
 - [Includes](#includes)
 - [Instructions](#instructions)
 - [Troubleshooting](#troubleshooting)
+- [Translations](#translations)
 - [Credits](#credits)
+- [Feedback](#feedback)
 
 <!-- Requirements -->
 ## Requirements
@@ -139,6 +141,8 @@ Fonts don't work?
 Something else?
 
 - Refer to this page: https://github.com/ParthJadhav/Tkinter-Designer/issues
+
+## Translations
 
 Translations included here:
 
