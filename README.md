@@ -46,6 +46,7 @@ The build includes assets, packages and prototypes for the client and is all fre
 
 In order to use these programs, Tkinter-Designer is needed as well as other packages it should be noted that the project would benefit from a virtual environment this would include dll files from an archive, poetry and pillow.
 
+Remember to change the file paths in order for the files to work!
 
 <!-- Includes -->
 ## Includes
