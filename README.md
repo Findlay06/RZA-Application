@@ -6,6 +6,11 @@ logo path: Images & Additional Assets/Accessibility_window.png
 
 <!-- PROJECT LOGO -->
 <br />
+<p align="center">
+    <a href="https://github.com/Findlay06">
+        <img src="Ver_9/Home.png" alt="Logo" width="350" height="350">
+    </a>
+<h3 align="center"><a href="https://github.com/Findlay06">RZA Repo</a></h3>
     <p align="center">
         Instructions
         <br />
