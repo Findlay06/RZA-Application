@@ -163,3 +163,13 @@ Credits to:
 - ParthJadhav, the creator of Tkinter Designer.
 - Figma for some of the designs provided.
 - Flaticon for the assets provided.
+
+Complete the self evaluations first!
+
+- Technical Feedback: https://forms.office.com/Pages/ResponsePage.aspx?id=TXGTmkoTz0uZUl6riBUAlTU69O_in5pMimWufqg3jURUMjBMNlpSWktGODk2N1ZWSk5XR1pBMFpQWC4u
+
+- Technical Self Evaluation: https://forms.office.com/Pages/ResponsePage.aspx?id=TXGTmkoTz0uZUl6riBUAlTU69O_in5pMimWufqg3jURUN1NVNVFMSEtXU1hOWlAzUVJSSEdROTZXNC4u
+
+- Non-technical Feedback: https://forms.office.com/Pages/ResponsePage.aspx?id=TXGTmkoTz0uZUl6riBUAlTU69O_in5pMimWufqg3jURUMU5EUVlLQk9MWkxEOTBBSUNKTEsxMUw1Sy4u
+
+- Non-technical Self Evaluation: https://forms.office.com/Pages/ResponsePage.aspx?id=TXGTmkoTz0uZUl6riBUAlTU69O_in5pMimWufqg3jURUOU02N1k0QUVSVjYwUjdIWTNFT04xT1dKQS4u
