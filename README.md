@@ -144,7 +144,7 @@ Something else?
 
 ## Translations
 
-Translations included here:
+Translations of the instructions for Tkinter Designer are included here:
 
 - 如何使用: https://github.com/ParthJadhav/Tkinter-Designer/blob/master/docs/instructions.zh-CN.md
 
@@ -170,7 +170,7 @@ Translations included here:
 
 Credits to:
 
-- ParthJadhav, the creator of Tkinter Designer.
+- ParthJadhav, the creator of Tkinter Designer and translation provider.
 - Figma for some of the designs provided.
 - Flaticon for the assets provided.
 
